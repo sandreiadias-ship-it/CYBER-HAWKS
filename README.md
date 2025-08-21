@@ -1,4 +1,5 @@
-GAVIGÕES CIBERNÉTICO
+                                                GAVIGÕES CIBERNÉTICO
+
 Introdução:
 Bem-vindo à nossa loja de jogos! Aqui, você encontrará uma ampla variedade de jogos para todas as idades e 
 interesses. Nossa missão é proporcionar uma experiência de compra divertida e emocionante para todos os nossos clientes.
