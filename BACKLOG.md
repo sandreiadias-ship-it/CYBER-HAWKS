@@ -1,5 +1,4 @@
-==> Backlog do Projeto 
-==> Backlog do Projeto (CYBER-HAWKS)
+Backlog do Projeto (CYBER-HAWKS)
 
 | ID  | Item                                                  | Prioridade| Status        | Responsável  |Data Prevista | Critérios de Aceitação                          |
 |-----|-------------------------------------------------------|------------|--------------|--------------|--------------|-------------------------------------------------|
