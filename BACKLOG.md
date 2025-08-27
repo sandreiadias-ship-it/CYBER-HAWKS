@@ -1,6 +1,6 @@
 Backlog do Projeto (CYBER-HAWKS)
 
-|      Item                                                  | Prioridade| Status        | Responsável  |Data Prevista | Critérios de Aceitação                          |
+| ID  |   Item                                                  | Prioridade| Status        | Responsável  |Data Prevista | Critérios de Aceitação                     |
 |-----|-------------------------------------------------------|------------|--------------|--------------|--------------|-------------------------------------------------|
 | 01  | Como usuário, quero fazer login para acessar minha conta.| Alta    | A Fazer      |              | ??/08/2025   | Login com email e senha; mensagem de erro clara.|
 | 02  | Como cliente, quero cadastrar produtos no sistema.     | Alta      | Em Andamento |              | ??/09/2025   | Produto salvo no banco; formulário validado.    |
