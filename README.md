@@ -8,8 +8,3 @@ Resumo:
 Nossa loja de jogos oferece uma seleção incrível de jogos de tabuleiro, videogames e acessórios para gamers de 
 todos os níveis. Com uma equipe apaixonada e experiente, estamos aqui para ajudá-lo a encontrar o jogo perfeito para 
 você e seus amigos. Venha nos visitar e descobrir um mundo de diversão e aventura!
-
-
-https://cyberhawkscombr.wordpress.com/cadastre-se-aqui/
-
-https://cyberhawkscombr.wordpress.com/realizar-log-in/
