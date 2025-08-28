@@ -1,6 +1,6 @@
 # 📌Entregas de Artefatos
 
-| ID | Artefato                         | Descrição                                     |Data Entrega|    Status   |     Link no Repositório      |
+|  | Artefato                         | Descrição                                     |Data Entrega|    Status   |     Link no Repositório      |
 |----|----------------------------------|-----------------------------------------------|------------|-------------|------------------------------|
 | 01 | Logomarca do Projeto             | Identidade visual oficial do projeto          | 20/08/2025 | Concluído   | [Ver Arquivo](https://avatars.githubusercontent.com/u/225202733?v=4) |
 | 02 | Documento de Introdução e Resumo | Apresentação inicial do projeto               | 21/08/2025 | Concluído   | [Ver Arquivo](https://github.com/sandreiadias-ship-it/CYBER-HAWKS/blob/6b6f8afd5b350df88bde2c4c971327c9d3b0e7c3/README.md)|
