@@ -2,7 +2,7 @@
 
 | ID  | Funcionalidade                            | Prioridade | Status     | Responsável | Data Prevista | Critérios de Aceitação |
 |-----|--------------------------------------------|------------|------------|--------------|----------------|--------------------------|
-| 01  | Criar Tela de Login                        | Concluída  | ✅ Concluído   | Beatriz      | 28/08/2025     | [✅] Validação de e-mail e senha;<br>[x] Redirecionamento correto |
+| 01  | Criar Tela de Login                        | Concluída  | ✅ Concluído   | Beatriz      | 28/08/2025     | [✅] Validação de e-mail e senha;<br>[✅] Redirecionamento correto |
 | 02  | Criar Tela de Cadastro de Usuário          | Concluída  | ✅ Concluído   | Beatriz      | 29/08/2025     | [✅] Cadastro de dados obrigatórios;<br>[ ] Validação no banco |
 | 03  | Catálogo de Jogos (Listagem de produtos)   | Alta       | ⏳ A Fazer | Elaiza       | 30/08/2025     | [ ] Exibição de jogos;<br>[ ] Filtros de busca por categoria/preço |
 | 04  | Carrinho de Compras                        | Alta       | ⏳ A Fazer | Paloma       | 02/09/2025     | [ ] Adicionar jogos ao carrinho;<br>[ ] Atualização de quantidades |
