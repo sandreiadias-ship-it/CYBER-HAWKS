@@ -4,7 +4,7 @@
 |-----|----------------------------------------------------------------------|--------------|
 | 01  | Como usuário, quero fazer login para acessar minha conta.           | ✅ Concluído |
 | 02  | Como cliente, quero cadastrar produtos no sistema.                  | 🔧 Em Andamento |
-| 03  | omo usuário, quero redefinir minha senha                | ⏳ A Fazer    |
+| 03  | Como usuário, quero redefinir minha senha                | ⏳ A Fazer    |
 | 04  | Como administrador, quero ver relatórios de vendas.                        | ⏳ A Fazer    |
 | 05  | Catálogo de Jogos (Listagem de produtos)                            | ⏳ A Fazer    |
 | 06  | Carrinho de Compras                                                  | ⏳ A Fazer    |
