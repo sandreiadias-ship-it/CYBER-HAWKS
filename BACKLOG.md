@@ -1,4 +1,4 @@
-# 📌 Backlog do Projeto (CYBER-HAWKS)
+# 📌 Backlog do Projeto
 
 | ID  | Item                                                                 | Status       |
 |-----|----------------------------------------------------------------------|--------------|
