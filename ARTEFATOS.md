@@ -1,4 +1,4 @@
-# 📌Entregas de Artefatos - Projeto CYBER-HAWKS
+# 📌Entregas de Artefatos
 
 | ID | Artefato                         | Descrição                                     |Data Entrega|    Status   |     Link no Repositório      |
 |----|----------------------------------|-----------------------------------------------|------------|-------------|------------------------------|
