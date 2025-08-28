@@ -1,6 +1,6 @@
 # 📌 Prioridade do Backlog - Loja de Jogos
 
-| ID  | Funcionalidade                            | Prioridade | Status     | Responsável | Data Prevista | Critérios de Aceitação |
+|   | Funcionalidade                            | Prioridade | Status     | Responsável | Data Prevista | Critérios de Aceitação |
 |-----|--------------------------------------------|------------|------------|--------------|----------------|--------------------------|
 | 01  | Criar Tela de Login                        | Concluída  | ✅ Concluído   | Beatriz      | 28/08/2025     | [✅] Validação de e-mail e senha;<br>[✅] Redirecionamento correto |
 | 02  | Criar Tela de Cadastro de Usuário          | Concluída  | ✅ Concluído   | Beatriz      | 29/08/2025     | [✅] Cadastro de dados obrigatórios;<br>[ ] Validação no banco |
