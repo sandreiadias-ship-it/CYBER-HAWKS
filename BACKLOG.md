@@ -1,6 +1,6 @@
 # 📌 Backlog do Projeto
 
-| ID  | Item                                                                 | Status       |
+| Numb  | Item                                                                 | Status       |
 |-----|----------------------------------------------------------------------|--------------|
 | 01  | Como usuário, quero fazer login para acessar minha conta.           | ✅ Concluído |
 | 02  | Como cliente, quero cadastrar produtos no sistema.                  | 🔧 Em Andamento |
