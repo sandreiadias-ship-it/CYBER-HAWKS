@@ -1,4 +1,4 @@
-# 📌 Prioridade do Backlog - Loja de Jogos
+# 📌 Prioridade do Backlog
 
 |   | Funcionalidade                            | Prioridade | Status     | Responsável | Data Prevista | Critérios de Aceitação |
 |-----|--------------------------------------------|------------|------------|--------------|----------------|--------------------------|
