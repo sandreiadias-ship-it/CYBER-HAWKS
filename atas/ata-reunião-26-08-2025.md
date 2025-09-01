@@ -14,6 +14,7 @@ Progresso do site e do cronograma.
 Criação de novos repositórios no GitHub.  
 
 ---
+
 🚀 Próximas Ações (Backlog da Reunião)
 
 |     | Tarefa                | Status |
@@ -23,8 +24,10 @@ Criação de novos repositórios no GitHub.
 | 03  | Ajustar site para entrega final | [Integrante responsável] | ⬜ A Fazer |
 | 04  | Organizar novos repositórios no GitHub | Toda a equipe | ⬜ A Fazer |
  
+---
 
 ✍️ Assinaturas Digitais (Confirmação da Equipe)
+
 ✍️ Iahm Pedro Batista Damasceno
 ✍️ Sandreia dos Santos Dias
 ✍️ Beatriz Sayuri Hayasaka Ramos
