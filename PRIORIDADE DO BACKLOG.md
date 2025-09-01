@@ -13,4 +13,4 @@
 | 09  | Sistema de Cupons e Descontos              | Baixa      | ⏳ A Fazer | Paloma       | 12/09/2025     | [ ] Cadastrar e aplicar cupons;<br>[ ] Validação do cupom |
 | 10  | Página de Promoções (Descontos e Ofertas)  | Baixa      | ⏳ A Fazer | Paloma       | 14/09/2025     | [ ] Exibição de jogos em promoção;<br>[ ] Aplicação automática de descontos |
 | 11  | Segurança de Dados                   | Alta    | ⏳ A Fazer   | Beatriz  | 22/09/2025    | [ ] Senhas criptografadas; [ ] Proteção contra SQL Injection e XSS
-| 12  | Integração Completa Frontend + Backend      | Alta       | A Fazer   |       | 16/09/2025    | [ ] Login, cadastro, catálogo, carrinho e pagamento funcionando juntos                 |
+| 12  | Integração Completa Frontend + Backend      | Alta       | A Fazer   |  Equipe     | 16/09/2025    | [ ] Login, cadastro, catálogo, carrinho e pagamento funcionando juntos                 |
