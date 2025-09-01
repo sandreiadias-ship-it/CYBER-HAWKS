@@ -18,12 +18,12 @@
 
 ## 🚀 Próximas Ações (Backlog da Reunião)
 
-|     | Tarefa                | Status |
-|-----|----------------------------|--------|
-| 01  | Finalizar cronograma  | 🔴 A Fazer |
-| 02  | Revisar backlog de tarefas  | 🔴 A Fazer |
-| 03  | Ajustar site para entrega final | 🔴 A Fazer |
-| 04  | Organizar novos repositórios no GitHub | 🔴 A Fazer |
+|     | Tarefa                | Responsável | Status |
+|-----|----------------------------|--------|---------------|
+| 01  | Finalizar cronograma  |  Toda a equipe      | 🔴 A Fazer |
+| 02  | Revisar backlog de tarefas  |   Toda a equipe         |🔴 A Fazer |
+| 03  | Ajustar site para entrega final |  Toda a equipe         | 🔴 A Fazer |
+| 04  | Organizar novos repositórios no GitHub |  Toda a equipe         | 🔴 A Fazer |
  
 ---
 
