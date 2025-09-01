@@ -16,11 +16,12 @@
 
 ---
 
-## ✅ Decisões / Tarefas
-- Revisar e completar **cronograma**.  
-- Revisar e completar **backlog**.  
-- Melhorar **resumo e introdução** no GPA.  
-- Continuar a implementação de ajustes e melhorias no projeto conforme feedback do professor.  
+## 📌 Pautas da Reunião
+1. Analisar o andamento do projeto e as tarefas já realizadas.  
+2. Identificar o que ainda está faltando para concluir o projeto conforme solicitado pelo professor.  
+3. Avaliar a dinâmica da equipe e dificuldades encontradas.  
+4. Apresentar o projeto ao professor e receber feedback.  
+5. Planejar próximos passos para ajustes no cronograma, backlog e GPA.    
 
 ---
 
