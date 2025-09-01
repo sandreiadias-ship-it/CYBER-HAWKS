@@ -1,9 +1,9 @@
 # 📝 ATA DE REUNIÃO – 28/08/2025
 **Projeto:** 🎮 CyberHawks – Loja de Jogos  
 **Data:** 📅 28/08/2025  
-**Duração:** ⏱️  15 minutos (intervalo) 
+**Duração:** ⏱️  15 minutos (intervalo)
 **Local:** 📍 Presencial
-**Participantes:** 👥 Equipe de desenvolvimento (todos presentes, se não houver ausência)  
+**Participantes:** 👥Equipe de desenvolvimento (2 ausente)  
 
 ---
 
