@@ -36,9 +36,9 @@
 ---
 
 ## ✍️ Assinaturas Digitais
-- Iahm Pedro Batista Damasceno  
-- Beatriz Sayuri Hayasaka Ramos  
-- Sandreia dos Santos Dias  
-- Yasmin Ribeiro dos Santos Silva  
-- Paloma Thayara Pereira dos Santos Maria  
-- Elaiza Amanda Mendes Alves  
+- ✍️ Iahm Pedro Batista Damasceno  
+- ✍️ Sandreia dos Santos Dias  
+- ✍️ Beatriz Sayuri Hayasaka Ramos  
+- ✍️ Yasmin Ribeiro dos Santos Silva  
+- ✍️ Paloma Thayara Pereira dos Santos Maria  
+- ✍️ Elaiza Amanda Mendes Alves   
