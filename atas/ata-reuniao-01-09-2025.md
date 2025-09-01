@@ -4,7 +4,7 @@
 **Data:** 📅 01/09/2025  
 **Duração:** ⏱️ 15 minutos (intervalo)  
 **Local:** 📍 Presencial  
-**Participantes:** 👥 Equipe de desenvolvimento (com ausência de 1 integrante)  
+**Participantes:** 👥 Equipe de desenvolvimento (com ausência de 2 integrante)  
 
 ---
 
