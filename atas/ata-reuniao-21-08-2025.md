@@ -23,14 +23,7 @@
 2. Revisão do andamento do projeto com o professor.  
 3. Discussão sobre falhas no cronograma.  
 4. Planejamento de entregas futuras.  
-
----
-
-## ✅ Decisões / Pontos Deliberados  
-- Entrega do **cronograma** atrasou, resultando em **perda de ponto** para a equipe.  
-- Definição de **novo prazo** para entrega do cronograma, conforme orientação do professor.  
-- Reforço no uso do **Trello** e do **GitHub Kanban** para organizar melhor o time.  
-
+ 
 ---
 
 ## 🚀 Próximas Ações (Backlog da Reunião)
