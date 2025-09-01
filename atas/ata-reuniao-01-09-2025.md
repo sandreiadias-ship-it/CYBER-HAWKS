@@ -33,8 +33,6 @@
 | 03  | Melhorar resumo e introdução no GPA | Toda a equipe | 🔴 A Fazer |
 | 04  | Implementar ajustes sugeridos pelo professor | Toda a equipe | 🔴 A Fazer |
 
-> ✅ Use ⬜ para “A Fazer” e ⬛ para “Concluído” diretamente no GitHub.  
-
 ---
 
 ## ✍️ Assinaturas Digitais
