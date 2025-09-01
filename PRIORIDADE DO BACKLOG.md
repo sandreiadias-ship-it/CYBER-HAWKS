@@ -14,4 +14,4 @@
 | 10  | Página de Promoções (Descontos e Ofertas)  | Baixa      | ⏳ A Fazer | Paloma       | 14/09/2025     | [ ] Exibição de jogos em promoção;<br>[ ] Aplicação automática de descontos |
 | 11  | Segurança de Dados                   | Alta    | ⏳ A Fazer   | Beatriz  | 22/09/2025    | [ ] Senhas criptografadas; [ ] Proteção contra SQL Injection e XSS
 | 12  | Integração Completa Frontend + Backend      | Alta       | A Fazer   |  Equipe     | ??/09/2025    | [ ] Login, cadastro, catálogo, carrinho e pagamento funcionando juntos                 |
-| 13  | Testes de Usabilidade e Correções           | Alta       | A Fazer   | Equipe      | 18/09/2025    | [ ] Testes de fluxo do usuário; [ ] Ajustes de bugs críticos                           |
+| 13  | Testes de Usabilidade e Correções           | Alta       | A Fazer   | Equipe      | ??/09/2025    | [ ] Testes de fluxo do usuário; [ ] Ajustes de bugs críticos                           |
