@@ -2,10 +2,9 @@
 
 **Projeto:** 🎮 CyberHawks – Loja de Jogos  
 **Data:** 📅 21/08/2025  
-**Duração:** ⏱️ 15 minutos (intervalo) + reunião com professor  
+**Duração:** ⏱️ 15 minutos (intervalo)  
 **Local:** 📍 Presencial  
 **Participantes:** 👥 Equipe de desenvolvimento (com ausência de 1 integrante)  
-**Professor Orientador:** 👨‍🏫 Geovanne  
 
 ---
 
@@ -37,11 +36,11 @@
 
 ## 🚀 Próximas Ações (Backlog da Reunião)
 
-| ID  | Tarefa / Ação                                      | Responsável             | Data Prevista | Status        |
+|     | Tarefa / Ação                                      | Responsável             | Status        |
 |-----|----------------------------------------------------|-------------------------|---------------|---------------|
-| 01  | Ajustar cronograma conforme orientação do professor |  Toda a equipe         | [dd/mm/aaaa]  | 🔴 A Fazer    |
-| 02  | Atualizar tarefas no Trello e GitHub Kanban        | Toda a equipe           | [dd/mm/aaaa]  | 🟡 Em Andamento |
-| 03  | Reorganizar planejamento para evitar atrasos       | Toda a equipe           | [dd/mm/aaaa]  | 🔴 A Fazer    |
+| 01  | Ajustar cronograma conforme orientação do professor |  Toda a equipe         | 🔴 A Fazer    |
+| 02  | Atualizar tarefas no Trello e GitHub Kanban        | Toda a equipe           | 🟡 Em Andamento |
+| 03  | Reorganizar planejamento para evitar atrasos       | Toda a equipe           | 🔴 A Fazer    |
 
 ---
 
