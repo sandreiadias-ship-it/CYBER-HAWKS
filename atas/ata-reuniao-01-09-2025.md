@@ -28,10 +28,10 @@
 
 |    | Tarefa | Responsável | Status |
 |-----|---------------|-------------|--------|
-| 01  | Completar cronograma | [Integrante responsável] | ⬜ A Fazer |
-| 02  | Completar backlog no GitHub | [Integrante responsável] | ⬜ A Fazer |
-| 03  | Melhorar resumo e introdução no GPA | [Integrante responsável] | ⬜ A Fazer |
-| 04  | Implementar ajustes sugeridos pelo professor | Toda a equipe | ⬜ A Fazer |
+| 01  | Completar cronograma | Toda a equipe | 🔴 A Fazer |
+| 02  | Completar backlog no GitHub | Toda a equipe | 🔴 A Fazer |
+| 03  | Melhorar resumo e introdução no GPA | Toda a equipe | 🔴 A Fazer |
+| 04  | Implementar ajustes sugeridos pelo professor | Toda a equipe | 🔴 A Fazer |
 
 > ✅ Use ⬜ para “A Fazer” e ⬛ para “Concluído” diretamente no GitHub.  
 
