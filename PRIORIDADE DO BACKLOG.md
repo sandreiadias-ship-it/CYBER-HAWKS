@@ -12,4 +12,4 @@
 | 08  | Sistema de Recomendações Personalizadas    | Baixa      | ⏳ A Fazer | Elaiza       | 10/09/2025     | [ ] Sugestões baseadas em histórico;<br>[ ] Algoritmo de recomendação |
 | 09  | Sistema de Cupons e Descontos              | Baixa      | ⏳ A Fazer | Paloma       | 12/09/2025     | [ ] Cadastrar e aplicar cupons;<br>[ ] Validação do cupom |
 | 10  | Página de Promoções (Descontos e Ofertas)  | Baixa      | ⏳ A Fazer | Paloma       | 14/09/2025     | [ ] Exibição de jogos em promoção;<br>[ ] Aplicação automática de descontos |
-| 11  | Segurança de Dados                   | Beatriz    | ⏳ A Fazer   | Beatriz  | 22/09   | [ ] Senhas criptografadas; [ ] Proteção contra SQL Injection e XSS
+| 11  | Segurança de Dados                   | Beatriz    | ⏳ A Fazer   | Beatriz  | 22/09/2025    | [ ] Senhas criptografadas; [ ] Proteção contra SQL Injection e XSS
