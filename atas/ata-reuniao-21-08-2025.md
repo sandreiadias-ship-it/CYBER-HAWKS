@@ -39,7 +39,7 @@
 
 | ID  | Tarefa / Ação                                      | Responsável             | Data Prevista | Status        |
 |-----|----------------------------------------------------|-------------------------|---------------|---------------|
-| 01  | Ajustar cronograma conforme orientação do professor | [Integrante responsável] | [dd/mm/aaaa]  | 🔴 A Fazer    |
+| 01  | Ajustar cronograma conforme orientação do professor |  Toda a equipe         | [dd/mm/aaaa]  | 🔴 A Fazer    |
 | 02  | Atualizar tarefas no Trello e GitHub Kanban        | Toda a equipe           | [dd/mm/aaaa]  | 🟡 Em Andamento |
 | 03  | Reorganizar planejamento para evitar atrasos       | Toda a equipe           | [dd/mm/aaaa]  | 🔴 A Fazer    |
 
