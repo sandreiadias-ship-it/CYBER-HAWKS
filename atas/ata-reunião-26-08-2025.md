@@ -26,11 +26,10 @@ Criação de novos repositórios no GitHub.
  
 ---
 
-✍️ Assinaturas Digitais (Confirmação da Equipe)
-
-✍️ Iahm Pedro Batista Damasceno
-✍️ Sandreia dos Santos Dias
-✍️ Beatriz Sayuri Hayasaka Ramos
-✍️ Yasmin Ribeiro dos Santos Silva
-✍️ Paloma Thayara Pereira dos Santos Maria
-✍️ Elaiza Amanda Mendes Alves
+## ✍️ Assinaturas Digitais (Confirmação da Equipe)
+- ✍️ Iahm Pedro Batista Damasceno  
+- ✍️ Sandreia dos Santos Dias  
+- ✍️ Beatriz Sayuri Hayasaka Ramos  
+- ✍️ Yasmin Ribeiro dos Santos Silva  
+- ✍️ Paloma Thayara Pereira dos Santos Maria  
+- ✍️ Elaiza Amanda Mendes Alves
