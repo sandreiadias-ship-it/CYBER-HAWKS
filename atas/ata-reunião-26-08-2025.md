@@ -18,10 +18,11 @@
 ---
 
 ## 📌 Pauta da Reunião
-1. Organização de ideias e tarefas.  
-2. Revisão do andamento do projeto com o professor.  
-3. Discussão sobre falhas no cronograma.  
-4. Planejamento de entregas futuras.
+1. Analisar o andamento do projeto.  
+2. Verificar conclusão das partes restantes.  
+3. Avaliar progresso do site e do cronograma.  
+4. Organizar e criar novos repositórios no GitHub.  
+5. Planejar próximos passos e revisão do backlog.
  
 ---
 
