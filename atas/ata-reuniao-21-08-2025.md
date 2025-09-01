@@ -26,8 +26,7 @@
 
 ---
 
-## ✅ Decisões / Pontos Deliberados
-- Reconhecimento dos erros no projeto após a reunião com o professor.  
+## ✅ Decisões / Pontos Deliberados  
 - Entrega do **cronograma** atrasou, resultando em **perda de ponto** para a equipe.  
 - Definição de **novo prazo** para entrega do cronograma, conforme orientação do professor.  
 - Reforço no uso do **Trello** e do **GitHub Kanban** para organizar melhor o time.  
