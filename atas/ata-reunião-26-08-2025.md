@@ -1,32 +1,33 @@
-==> ATA de Reunião – 26/08/2025
-
-CyberHawks 
-Data:26/08/2025  
-Duração:15 minutos (intervalo) 
-Local:Presencial  
-Participantes:Equipe de desenvolvimento (com ausência de 1 integrante)  
-
----
-
-==> Contexto
-- Análise do andamento do projeto.  
-- Conclusão das partes restantes do projeto.  
-- Progresso do site e do cronograma.  
-- Criação de novos repositórios no GitHub.  
+📝 ATA DE REUNIÃO
+Projeto: 🎮 CyberHawks – Loja de Jogos
+Data: 📅 26/08/2025
+Duração: ⏱️ 15 minutos (intervalo)
+Local: 📍 Presencial
+Participantes: 👥 Equipe de desenvolvimento (com ausência de 1 integrante)
 
 ---
 
-==> Decisões/Tarefas
-- A equipe está quase concluindo as partes restantes do projeto.  
-- O "site" está em fase final de ajustes.  
-- O "cronograma" está quase pronto.  
-- Foram adicionados "novos repositórios no GitHub" para organização.  
-- Próximos passos: finalizar cronograma e revisar backlog.  
+🎯 Contexto
+Análise do andamento do projeto.
+Conclusão das partes restantes do projeto.
+Progresso do site e do cronograma.
+Criação de novos repositórios no GitHub.  
 
-==> Assinaturas Digitais (Confirmação da Equipe)
-Iahm Pedro Batista Damasceno
-Beatriz Sayuri Hayasaka Ramos
-Sandreia dos Santos Dias
-Yasmin Ribeiro dos Santos Silva
-Paloma Thayara pereira dos santos maria
-Elaiza Amanda Mendes Alves
+---
+🚀 Próximas Ações (Backlog da Reunião)
+
+|     | Tarefa                | Status |
+|-----|----------------------------|--------|
+| 01  | Finalizar cronograma | [Integrante responsável] | ⬜ A Fazer |
+| 02  | Revisar backlog de tarefas | Toda a equipe | ⬜ A Fazer |
+| 03  | Ajustar site para entrega final | [Integrante responsável] | ⬜ A Fazer |
+| 04  | Organizar novos repositórios no GitHub | Toda a equipe | ⬜ A Fazer |
+ 
+
+✍️ Assinaturas Digitais (Confirmação da Equipe)
+✍️ Iahm Pedro Batista Damasceno
+✍️ Sandreia dos Santos Dias
+✍️ Beatriz Sayuri Hayasaka Ramos
+✍️ Yasmin Ribeiro dos Santos Silva
+✍️ Paloma Thayara Pereira dos Santos Maria
+✍️ Elaiza Amanda Mendes Alves
