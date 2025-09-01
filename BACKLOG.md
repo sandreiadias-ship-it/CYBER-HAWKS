@@ -14,3 +14,9 @@
 | 10  | Sistema de Recomendações Personalizadas                             | ⏳ A Fazer    |
 | 11  | Sistema de Cupons e Descontos                                       | ⏳ A Fazer    |
 | 12  | Página de Promoções (Descontos e Ofertas)                           | ⏳ A Fazer    |
+| 13  | Segurança de Dados                           | ⏳ A Fazer    |
+| 14  | Integração Completa Frontend + Backend                           | ⏳ A Fazer    |
+| 15  | Deploy Final do Site                          | ⏳ A Fazer    |
+| 16  | Documentação Final (manual do sistema)                          | ⏳ A Fazer    |
+| 17  | Apresentação Final do Projeto                        | ⏳ A Fazer    |
+
