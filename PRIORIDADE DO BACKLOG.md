@@ -15,3 +15,4 @@
 | 11  | Segurança de Dados                   | Alta    | ⏳ A Fazer   | Beatriz  | 22/09/2025    | [ ] Senhas criptografadas; [ ] Proteção contra SQL Injection e XSS
 | 12  | Integração Completa Frontend + Backend      | Alta       | A Fazer   |  Equipe     | ??/09/2025    | [ ] Login, cadastro, catálogo, carrinho e pagamento funcionando juntos                 |
 | 13  | Testes de Usabilidade e Correções           | Alta       | A Fazer   | Equipe      | ??/09/2025    | [ ] Testes de fluxo do usuário; [ ] Ajustes de bugs críticos                           |
+| 14  | Deploy Final do Site                        | Alta       | A Fazer   | Equipe      | ??/09/2025    | [ ] Site online em domínio final; [ ] Testado e acessível a usuários externos          |
