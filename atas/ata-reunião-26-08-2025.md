@@ -20,10 +20,10 @@
 
 |     | Tarefa                | Status |
 |-----|----------------------------|--------|
-| 01  | Finalizar cronograma  | ⬜ A Fazer |
-| 02  | Revisar backlog de tarefas  | ⬜ A Fazer |
-| 03  | Ajustar site para entrega final | ⬜ A Fazer |
-| 04  | Organizar novos repositórios no GitHub | ⬜ A Fazer |
+| 01  | Finalizar cronograma  | 🔴 A Fazer |
+| 02  | Revisar backlog de tarefas  | 🔴 A Fazer |
+| 03  | Ajustar site para entrega final | 🔴 A Fazer |
+| 04  | Organizar novos repositórios no GitHub | 🔴 A Fazer |
  
 ---
 
