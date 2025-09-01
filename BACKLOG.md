@@ -3,10 +3,10 @@
 |    | Item                                                                 | Status       |
 |-----|----------------------------------------------------------------------|--------------|
 | 01  | Como usuário, quero fazer login para acessar minha conta.           | ✅ Concluído |
-| 02  | Como usuário, quero redefinir minha senha                   | 🔧 Em Andamento |
-| 03  | Como cliente, quero cadastrar produtos no sistema.       | ⏳ A Fazer    |
-| 04  | Como administrador, quero ver relatórios de vendas.                        | ⏳ A Fazer    |
-| 05  | Catálogo de Jogos (Listagem de produtos)                            | ⏳ A Fazer    |
+| 02  | Catálogo de Jogos (Listagem de produtos)                   | 🔧 Em Andamento |
+| 03  | Carrinho de Compras        | ⏳ A Fazer    |
+| 04  | Processo de Checkout e Pagamento                        | ⏳ A Fazer    |
+| 05  | Área do Usuário (Histórico de compras, downloads)                            | ⏳ A Fazer    |
 | 06  | Carrinho de Compras                                                  | ⏳ A Fazer    |
 | 07  | Processo de Checkout e Pagamento                                    | ⏳ A Fazer    |
 | 08  | Área do Usuário (Histórico de compras, downloads)                   | ⏳ A Fazer    |
