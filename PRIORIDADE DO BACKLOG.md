@@ -16,6 +16,5 @@
 | 12  | Integração Completa Frontend + Backend      | Alta       | A Fazer   |  Equipe     | ??/09/2025    | [ ] Login, cadastro, catálogo, carrinho e pagamento funcionando juntos                 |
 | 13  | Testes de Usabilidade e Correções           | Alta       | A Fazer   | Equipe      | ??/09/2025    | [ ] Testes de fluxo do usuário; [ ] Ajustes de bugs críticos                           |
 | 14  | Deploy Final do Site                        | Alta       | A Fazer   | Equipe      | ??/09/2025    | [ ] Site online em domínio final; [ ] Testado e acessível a usuários externos          |
-| 15  | Deploy Final do Site                        | Alta       | A Fazer   | Equipe      | ??/09/2025    | [ ] Site online em domínio final; [ ] Testado e acessível a usuários externos          |
-| 16  | Documentação Final (manual do sistema)      | Média      | A Fazer   | Equipe      | ??/09/2025    | [ ] README completo; [ ] Instruções de instalação e uso                                |
-| 17  | Apresentação Final do Projeto               | Alta       | A Fazer   | Equipe      | ??/09/2025    | [ ] Preparar slides; [ ] Apresentar funcionamento completo da loja de jogos            |
+| 15  | Documentação Final (manual do sistema)      | Média      | A Fazer   | Equipe      | ??/09/2025    | [ ] README completo; [ ] Instruções de instalação e uso                                |
+| 16  | Apresentação Final do Projeto               | Alta       | A Fazer   | Equipe      | ??/09/2025    | [ ] Preparar slides; [ ] Apresentar funcionamento completo da loja de jogos            |
