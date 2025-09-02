@@ -43,7 +43,7 @@
 - Feedback do professor enfatizou a necessidade de revisar detalhes finais do resumo e introdução no GPA para maximizar a pontuação.
 ---
 
-## ✍️ Assinaturas Digitais
+## ✍️ Assinaturas Digitais (Confirmação da Equipe)
 - ✍️ Iahm Pedro Batista Damasceno  
 - ✍️ Sandreia dos Santos Dias  
 - ✍️ Beatriz Sayuri Hayasaka Ramos  
