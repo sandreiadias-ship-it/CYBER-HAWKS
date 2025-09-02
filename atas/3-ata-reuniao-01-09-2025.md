@@ -35,6 +35,13 @@
 | 04  | Implementar ajustes sugeridos pelo professor | Toda a equipe | 🔴 A Fazer |
 
 ---
+## 📝 Observações
+- A reunião permitiu uma análise clara do progresso do projeto e das tarefas já concluídas.  
+- A equipe manteve boa comunicação, mesmo enfrentando pequenas dificuldades individuais.  
+- Identificadas algumas pendências no cronograma e no backlog que precisam de ajustes.  
+- Surgiram novas ideias para otimizar o site e melhorar a organização dos repositórios no GitHub.  
+- Feedback do professor enfatizou a necessidade de revisar detalhes finais do resumo e introdução no GPA para maximizar a pontuação.
+---
 
 ## ✍️ Assinaturas Digitais
 - ✍️ Iahm Pedro Batista Damasceno  
