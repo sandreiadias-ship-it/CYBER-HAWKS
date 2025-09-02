@@ -36,6 +36,11 @@
  
 
 ---
+## 📝 Observações
+- Reunião ocorreu parcialmente durante o intervalo da aula, com 1 integrante ausente.  
+- Segunda parte realizada com acompanhamento direto do professor.  
+- Equipe se reorganizou após a reunião para **evitar novos atrasos**. 
+---
 
 ## ✍️ Assinaturas Digitais (Confirmação da Equipe)
 - ✍️ Iahm Pedro Batista Damasceno  
