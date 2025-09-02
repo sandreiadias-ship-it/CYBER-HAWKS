@@ -33,13 +33,7 @@
 | 01  | Ajustar cronograma conforme orientação do professor |  Toda a equipe         | 🔴 A Fazer    |
 | 02  | Atualizar tarefas no Trello e GitHub Kanban        | Toda a equipe           | 🟡 Em Andamento |
 | 03  | Reorganizar planejamento para evitar atrasos       | Toda a equipe           | 🔴 A Fazer    |
-
----
-
-## 📝 Observações
-- A reunião ocorreu parcialmente no intervalo da aula, com um integrante ausente.  
-- A segunda parte foi realizada com acompanhamento direto do professor.  
-- A equipe se reorganizou após a reunião para evitar novos atrasos.  
+ 
 
 ---
 
