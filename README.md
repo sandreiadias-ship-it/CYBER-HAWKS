@@ -12,6 +12,5 @@ Além de diversão, buscamos criar um ecossistema de recompensas e fidelização
 Nosso objetivo é simples: transformar a forma como você joga, compra e se diverte. Queremos que cada cliente se sinta parte de uma comunidade apaixonada por games, tecnologia e inovação.
 
 Resumo: 
-Nossa loja de jogos oferece uma seleção incrível de jogos de tabuleiro, videogames e acessórios para gamers de 
-todos os níveis. Com uma equipe apaixonada e experiente, estamos aqui para ajudá-lo a encontrar o jogo perfeito para 
-você e seus amigos. Venha nos visitar e descobrir um mundo de diversão e aventura!
+O Gaviões Cybernéticos é mais que uma loja de jogos: é um cantinho feito para quem adora videogames, tecnologia e se divertir. Temos um monte de jogos, aparelhos, juntando opções, qualidade e preços que cabem no bolso. Nossa turma é de pessoas que também joga, prontos para ajudar e fazer cada pessoa achar o melhor jeito de jogar.
+ Nossa loja oferece uma seleção incrível de jogos de videogames e acessórios para gamers. Com uma equipe apaixonada e experiente, estamos aqui para ajudá-lo a encontrar o jogo perfeito para você e seus amigos. Venha nos visitar e descobrir um mundo de diversão e aventura!
