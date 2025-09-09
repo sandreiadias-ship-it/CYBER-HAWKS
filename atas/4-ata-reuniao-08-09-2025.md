@@ -42,13 +42,13 @@
 
 ## 🚀 Próximas Ações (Backlog de Reunião)
 
-| ID  | Tarefa / Ação | Responsável | Data Prevista | Status |
-|-----|---------------|-------------|---------------|--------|
-| 01  | Ajustar prototipagem e corrigir incoerências no site | Toda a equipe | [dd/mm/aaaa] | ⬜ A Fazer |
-| 02  | Implementar carrinho de compras | [Integrante responsável] | [dd/mm/aaaa] | ⬜ A Fazer |
-| 03  | Implementar sistema de cupons | [Integrante responsável] | [dd/mm/aaaa] | ⬜ A Fazer |
-| 04  | Melhorar catálogo de jogos no site | Toda a equipe | [dd/mm/aaaa] | ⬜ A Fazer |
-| 05  | Revisar e melhorar GPA conforme críticas do professor | Toda a equipe | [dd/mm/aaaa] | ⬜ A Fazer |
+| ID  | Tarefa / Ação | Responsável | Status |
+|-----|---------------|-------------|-----------------------|
+| 01  | Ajustar prototipagem e corrigir incoerências no site | Toda a equipe | ⬜ A Fazer |
+| 02  | Implementar carrinho de compras | Paloma  | ⬜ A Fazer |
+| 03  | Implementar sistema de cupons | Paloma | ⬜ A Fazer |
+| 04  | Melhorar catálogo de jogos no site | Toda a equipe | ⬜ A Fazer |
+| 05  | Revisar e melhorar GPA conforme críticas do professor | Toda a equipe | ⬜ A Fazer |
 
 ---
 
