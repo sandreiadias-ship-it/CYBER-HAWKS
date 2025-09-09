@@ -42,7 +42,7 @@
 
 | ID  | Tarefa / Ação | Responsável | Status |
 |-----|---------------|-------------|-----------------------|
-| 01  | Pesquisar e propor estrutura inicial do Banco de Dados | Beatriz | ⬜ A Fazer |
+| 01  | Pesquisar e propor estrutura inicial do Banco de Dados | Beatriz | ⬜ Dúvida |
 | 02  | Documentar alternativas de implementação | Toda a equipe  | ⬜ A Fazer |
 | 03  | Discutir solução final para o Banco de Dados | Toda a equipe | ⬜ Em Andamento |
 | 04  | Testar integração do banco com o site | Toda a equipe| ⬜ A Fazer |
