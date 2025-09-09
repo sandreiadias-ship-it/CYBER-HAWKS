@@ -42,7 +42,7 @@
 
 ## 🚀 Próximas Ações (Backlog de Reunião)
 
-| ID  | Tarefa / Ação | Responsável | Status |
+|   | Tarefa / Ação | Responsável | Status |
 |-----|---------------|-------------|-----------------------|
 | 01  | Ajustar prototipagem e corrigir incoerências no site | Toda a equipe | ⬜ A Fazer |
 | 02  | Implementar carrinho de compras | Paloma  | ⬜ A Fazer |
