@@ -40,7 +40,7 @@
 
 ## 🚀 Próximas Ações (Backlog de Reunião)
 
-| ID  | Tarefa / Ação | Responsável | Status |
+|   | Tarefa / Ação | Responsável | Status |
 |-----|---------------|-------------|-----------------------|
 | 01  | Pesquisar e propor estrutura inicial do Banco de Dados | Beatriz | ⬜ Dúvida |
 | 02  | Documentar alternativas de implementação | Toda a equipe  | ⬜ A Fazer |
