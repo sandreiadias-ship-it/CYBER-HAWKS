@@ -5,7 +5,7 @@
 **Duração:** 15 minutos  
 **Local:** Presencial  
 **Participantes:** Equipe de desenvolvimento (com ausência de 2 integrantes)  
-**Professor Orientador:** Geovanne  
+  
 
 ---
 
