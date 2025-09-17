@@ -3,7 +3,7 @@
 **Projeto:** CyberHawks – Loja de Jogos  
 **Data:** 09/09/2025  
 **Duração:** 15 minutos  
-**Local:** Presencial  
+**Local:** Biblioteca  
 **Participantes:** Equipe de desenvolvimento (com ausência de 2 integrantes)  
   
 
