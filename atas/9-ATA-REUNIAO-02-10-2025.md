@@ -1,4 +1,4 @@
-# 📝 ATA DE REUNIÃO – 02/10/2025 (Reunião com o Professor)
+# 📝 ATA DE REUNIÃO – 02/10/2025 
 
 **Projeto:** CyberHawks – Loja de Jogos  
 **Data:** 02/10/2025  
